@@ -19,3 +19,26 @@ padding: 0;
     .cartao-imagem{
         width: 100%;
     }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        min-width: 100vh;
+        background-color: ;
+    }
+    main{
+        flex: 1;
+    }
+
+    .cabecalho-link {
+        color: #fff;
+        text-decoration: nome;
+    }
+    h1 {
+        color: #fff;
+        font-size: 24px;
+
+    }
+    footer {
+        background-color: #fff;
+    }
